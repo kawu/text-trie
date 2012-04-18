@@ -1,0 +1,11 @@
+Name:               text-trie
+Version:            0.0.0
+Synopsis:           Patricia trie for Text keys
+License:            BSD3
+License-file:       LICENSE
+Author:             Jakub Waszczuk
+Maintainer:         waszczuk.kuba@gmail.com
+Build-type:         Simple
+Exposed-modules:    Data.TextTrie
+Build-Depends:      base
+                  , text
